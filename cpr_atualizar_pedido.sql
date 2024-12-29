@@ -2,7 +2,7 @@
    #  Autor: Antonio Kobus de Almeida || Data: 24/12/2024
    #  Descricao: Script para criação da procedure responsável por alterar um pedido 
    #             e atualizar a quantidade de estoque do produto
-   #  Servidor: xxx Banco: xxx
+   #  Servidor: xxx Banco: xxxx
    #  Alteracoes
    #  Data       Autor          Descricao
    #  ---------- -------------- --------------------------------------------------------------------------------  
