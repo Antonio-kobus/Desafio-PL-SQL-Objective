@@ -1,2 +1,1 @@
 Envio dos arquivos criados para atender ao desafio, incluí também o pdf com o escopo original e um outro com o registro e evidências dos testes unitários que realizei para garantir que estaria funcionando e tratando os principais problemas que poderiam ocorrer ao executar as procedures e functions de forma inesperada.
-Fico a disposição para qualquer eventualidade e fico no aguardo do retorno, abraço e boas festas!
